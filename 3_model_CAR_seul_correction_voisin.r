@@ -1,5 +1,6 @@
 # j'ajoute un commentaire pour essayer
 ### je chage vraiment
+#Il est tard maintenant 23:22 par Sophie
 #=================================================================================================
 # Modele avec structure CAR propre seul 
 # sans variable explicative
